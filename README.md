@@ -11,8 +11,8 @@
 
 
 # screencast link 
-# youtube : 
-# persentation link : 
+# youtube : https://www.youtube.com/watch?v=RMH2iMOrTck
+# persentation link : https://www.youtube.com/watch?v=RMH2iMOrTck
 # github : https://github.com/samar19/InheritChain---Protocol
 
 
@@ -130,6 +130,43 @@ By incorporating these tools into the InheritChain project, you can enhance user
  **Run Time Error:** One of our challenges was dealing with run-time errors triggered by non-ERC20 token addresses within requests. This error caused disruptions in the request chain, resulting in transaction reversals and the failure of subsequent requests. The complexity arose from managing failed requests while allowing the rest of the transaction to proceed smoothly. Our solution stemmed from studying "How to Send Batch Transaction" video guides, which introduced an alternative approach to handling run-time errors in solidity known as "Low-Level Call." By implementing this strategy, we successfully circumvented run-time errors, ensuring uninterrupted transaction execution.
 
 - **Deployment Error:** Another obstacle emerged during deployment, specifically a bundler issue linked to the conversion of `**` to `math.pow`. Unfortunately, this transformation did not support larger numbers, leading to compatibility issues. Addressing this challenge involved comprehensive troubleshooting and meticulous optimization efforts. Resolving this issue was a crucial milestone, guaranteeing the smooth deployment of our solution and its alignment with the designated environment.
+
+
+Certainly! Here's an outline for milestones in the development of the InheritChain Protocol:
+
+**Milestone 1: Conceptualization and Research**
+
+During this initial phase, the concept of the InheritChain Protocol was born. Extensive research was conducted to understand the challenges of digital asset loss and the potential solutions that blockchain technology could offer. The team delved into existing smart contract frameworks, explored use cases, and identified the key components required to create a secure and efficient digital legacy management system.
+
+**Milestone 2: Smart Contract Architecture Design**
+
+In this milestone, the blueprint of the InheritChain Protocol took shape. The team designed the architecture of the smart contract that would serve as the core of the protocol. Detailed discussions were held to define the data structures, functions, and logic required for creating and managing digital wills. The architecture was meticulously crafted to ensure scalability, security, and ease of integration with external tools.
+
+**Milestone 3: Development and Testing of Core Functionalities**
+
+With the smart contract architecture in place, development of the core functionalities began. The team coded the functionalities such as creating wills, setting conditions for asset transfer, extending deadlines, deactivating and reactivating wills, and executing transfers. Rigorous testing was conducted at each stage to ensure that the functionalities worked as intended, and potential vulnerabilities were identified and addressed.
+
+**Milestone 4: Integration of External Tools**
+
+This phase marked the integration of external tools that would enhance the protocol's capabilities. The team integrated Chainlink's automation features to automate the execution of wills based on predefined conditions. Push Protocol was incorporated to provide real-time notifications to users regarding transaction status and execution. Valist was utilized for smart contract deployment and management, ensuring a robust and efficient deployment process.
+
+**Milestone 5: User Interface Development**
+
+The InheritChain DApp's user interface was developed in this milestone. HTML and CSS were employed to design an intuitive and visually appealing interface that would guide users through the process of creating, managing, and executing digital wills. JavaScript was harnessed to add interactivity, real-time updates, and dynamic elements, enhancing the user experience and ensuring a seamless interaction with the protocol.
+
+**Milestone 6: Security Audits and Optimization**
+
+Security audits were a critical aspect of the protocol's development. The smart contract code underwent thorough audits to identify vulnerabilities, potential exploits, and areas for improvement. The team implemented recommended security best practices and conducted optimization efforts to ensure the protocol's efficiency and resilience.
+
+**Milestone 7: Beta Testing and User Feedback**
+
+In this phase, the InheritChain Protocol entered beta testing. A select group of users participated in testing the protocol's functionalities, usability, and user experience. Feedback from beta testers provided invaluable insights, allowing the team to refine the protocol, enhance user interface elements, and address any issues or concerns raised during testing.
+
+**Milestone 8: Mainnet Deployment and Launch**
+
+With the protocol thoroughly tested, optimized, and refined, it was ready for its mainnet deployment. The InheritChain Protocol was officially launched, allowing users to begin using the platform to secure their digital legacies. The launch marked a significant achievement, as it brought the vision of preserving digital assets to life and enabled users to experience the protocol's benefits firsthand.
+
+These milestones collectively represent the journey of the InheritChain Protocol from conceptualization to real-world implementation. Each phase was marked by dedication, innovation, and the relentless pursuit of providing users with a reliable and secure solution for managing their digital legacies.
 
 # Getting Started with Create React App
 
