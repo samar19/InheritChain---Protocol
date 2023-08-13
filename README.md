@@ -14,7 +14,7 @@
 # youtube : 
 # persentation link : 
 # smart contract explain and analysis : 
-# github :
+# github : https://github.com/samar19/InheritChain---Protocol
 
 
 # Tagline  Description:
