@@ -23,7 +23,10 @@ This tagline reflects the essence of  project, emphasizing the idea of securing 
 # Project Description:
 **Project Proposal: InheritChain Protocol for Dora Grant DAO**
 **Project Description:**
+
 Unlocking the Future: Safeguarding Today's Digital Legacy with InheritChain Protocol
+
+
 "Inheriting Tomorrow, Securing Today: Your Digital Legacy, Powered by InheritChain"
 In today's digital era, the value of personal assets extends beyond the tangible, encompassing a realm of digital assets including coins, tokens, and NFTs. Surprisingly, a staggering $20 billion worth of these assets has been rendered inaccessible due to the loss of private keys or the unfortunate passing of individuals. In stark contrast to real-world assets like homes, jewelry, and stocks, which are seamlessly transferred to heirs, digital assets often meet an uncertain fate upon the loss of a private key. The question arises: Why not extend the same legacy principles to safeguarding valuable digital assets such as coins and tokens?
 Introducing the transformative power of the **InheritChain Protocol** – an innovative solution with the potential to redefine digital legacies. This protocol is the cornerstone of securing digital assets for the future while honoring their importance in the present.
