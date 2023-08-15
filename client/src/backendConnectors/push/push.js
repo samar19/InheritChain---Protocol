@@ -14,12 +14,12 @@ export async function push(status,from,to){
         type: 3, // target
         identityType: 2, // direct payload
         notification: {
-          title: `Bequest Protocol😊`,
-          body: `New message from Bequest Protocol`
+          title: `InheritChain Protocol😊`,
+          body: `New message from InheritChain Protocol`
         },
         payload: {
           title: `WOW! You Have Been Added As Benificary By ${from} 😊`,
-          body: `Go to Bequest Protocol Benifiary's Section to See Details`,
+          body: `Go to InheritChain Protocol Benifiary's Section to See Details`,
           cta: '',
           img: '' 
         },
@@ -36,12 +36,12 @@ export async function push(status,from,to){
         type: 3, // target
         identityType: 2, // direct payload
         notification: {
-          title: `Bequest Protocol😊`,
-          body: `New message from Bequest Protocol`
+          title: `InheritChain Protocol😊`,
+          body: `New message from InheritChain Protocol`
         },
         payload: {
           title: `One UPDATE! in your Benificary's Section`,
-          body: `Go to Bequest Protocol Benifiary's Section to See Details`,
+          body: `Go to InheritChain Protocol Benifiary's Section to See Details`,
           cta: '',
           img: '' 
         },

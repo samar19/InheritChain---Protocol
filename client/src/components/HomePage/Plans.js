@@ -70,7 +70,7 @@ function Plans() {
 								additional control over potential crypto scam links emails.
 							</li>
 							<li className="plans-card__item-info__ul-li">
-								launch bequest protocol token.
+								launch InheritChain protocol token.
 							</li>
 						</ul>
 					</div>

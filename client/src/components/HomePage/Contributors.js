@@ -14,14 +14,10 @@ const Contributors = () => {
 
 				<div className="contributors-list">
 					<div className="contributors-list__profile">
-						<img src={Gautam} alt="gautam" />
-
-						<h3 className="contributors-list__profile-name">Gautam Bansal</h3>
+						
 					</div>
 					<div className="contributors-list__profile">
-						<img src={Rohan} alt="rohan" />
-
-						<h3 className="contributors-list__profile-name">Rohan Verma</h3>
+					
 					</div>
 					{/* <div className="contributors-list__profile">
 						<img src={Krishan} alt="krishan" />
@@ -30,9 +26,7 @@ const Contributors = () => {
 					</div> */}
 
 					<div className="contributors-list__profile">
-						<img src={Anshul} alt="anshul" />
-
-						<h3 className="contributors-list__profile-name">Anshul Vats</h3>
+						
 					</div>
 				</div>
 			</div>

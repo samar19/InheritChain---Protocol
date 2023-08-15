@@ -11,7 +11,7 @@ function Success() {
 				</h3>
 
 				<p id="error-modal__div-message">
-					Successfully created BeQuest request.
+					Successfully created InheritChain request.
 				</p>
 			</div>
 		</div>

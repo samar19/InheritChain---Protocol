@@ -192,7 +192,7 @@ function CreateRequest() {
 					</div>
 
 					<div className="create-will__token-form__input">
-						<h3 className="pacifico">Create your BeQuest request</h3>
+						<h3 className="pacifico">Create your InheritChain request</h3>
 
 						<CreateRequestForm
 							tokenDetails={tokenDetails}

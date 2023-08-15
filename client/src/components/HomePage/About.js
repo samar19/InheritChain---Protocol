@@ -22,30 +22,25 @@ function About() {
 
 			<div className="about-card">
 				<div className="about-card-item" ref={leftCardRef}>
-					<h2 className="about-card-item__head">About BeQuest Protocol</h2>
+					<h2 className="about-card-item__head">InheritChain: Securing Your Legacy</h2>
 					<div className="about-car-item__text">
 						<p className="about-card-item__text-p">
-						BeQuest Protocol was created to protect digital assets in the event of the loss of a private key or death.
-						</p>
+						The inception of the InheritChain Protocol arose with the paramount aim of shielding digital assets in scenarios encompassing the loss of a private key or the passage of an individual						</p>
 
 						<p className="about-card-item__text-p">
-						The assets will always be at the owner's address and will be transferred to their beneficiary according to their request.
-						</p>
+						The assets shall perennially reside within the owner's address, poised for a seamless transfer to their designated beneficiary as per their stipulated wishes						</p>
 					</div>
 				</div>
 
 				<div className="about-card-item item-right" ref={rightCardRef}>
 					<h2 className="about-card-item__head">
-					Fully Decentralized : Web3 Solution
-					</h2>
+					Web3: Total Decentralization Achieve					</h2>
 
 					<div className="about-car-item__text">
 						<p className="about-card-item__text-p">
-						The user doesn't have to share their precious private key with anyone. Just approve the asset and sign your request in Bequest Protocol's smart contract.
-						</p>
+						Users are liberated from the need to share their invaluable private key, as a mere approval and signature of the asset request within the InheritChain Protocol's smart contract suffices						</p>
 						<p className="about-card-item__text-p">
-						Your request will be carried out correctly by a smart contract.
-						</p>
+						Rest assured, your request shall be impeccably executed through the precision of a smart contract						</p>
 					</div>
 				</div>
 			</div>

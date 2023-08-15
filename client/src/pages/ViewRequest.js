@@ -77,7 +77,7 @@ function ViewRequest() {
 			) : willCard.length > 0 ? (
 				willCard
 			) : (
-				<p>No BeQuest request created till now!</p>
+				<p>No InheritChain request created till now!</p>
 			)}
 		</div>
 	);

@@ -16,7 +16,7 @@ const Footer = () => {
 					<div>
 						<i class="fa fa-map-marker"></i>
 						<p>
-							<span> Devfolio💖 Hackathon</span>EthIndia2022👨‍💻
+							<span> Dora Grant DAO  💖 Hackathon</span> Round 4👨‍💻
 						</p>
 					</div>
 
@@ -28,7 +28,7 @@ const Footer = () => {
 					<div>
 						<i class="fa fa-envelope"></i>
 						<p>
-							<a href="mailto:support@company.com">protocolBequest@gmail.com</a>
+							<a href=""></a>
 						</p>
 					</div>
 				</div>
@@ -36,18 +36,17 @@ const Footer = () => {
 				<div class="footer-right">
 					<p class="footer-company-about">
 						<span>About the company</span>
-						BeQuest came into existence with the purpose of protecting digital
-						assets. BeQuest helps the users secure their digital assets like
-						cryptocurrencies, NFTs, etc. from loss of private keys or death.
+						"InheritChain was born to safeguard digital assets, enabling users to fortify holdings
+						 like cryptocurrencies, NFTs, against private key loss or demise"
 					</p>
 
 					<div class="footer-icons">
-						<a href="#" target="_blank">
+						<a href="https://www.youtube.com/watch?v=RMH2iMOrTck" target="_blank">
 							<i class="fa fa-youtube"></i>
 						</a>
 
 						<a
-							href="https://github.com/rohan031/BeQuest-ETHIndia22"
+							href="https://github.com/samar19/InheritChain---Protocol"
 							target="_blank"
 						>
 							<i class="fa fa-github"></i>
