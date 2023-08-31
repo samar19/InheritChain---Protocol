@@ -252,7 +252,7 @@ function CreateWillForm({
 	};
 
 	return (
-		<form onSubmit={handleSubmit(createWill)} className="input-form">
+		<form onSubmit={handleSubmit(createWill)} >
 			{err.state && <Error message={err.message} />}
 
 			{success && <Success />}
